@@ -1,10 +1,12 @@
 {
 	"Banlist":{
+		"Player0":0,
 		"Player1":666,
 		"Player2":667,
 		"Player3":668,
 		"Player4":669,
 		"Player5":670,
-		"Player6":671
+		"Player6":671,
+		"Player7":672
 	}
 }
