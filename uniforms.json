@@ -474,7 +474,21 @@
          "Commanding Officer":6950900271,
 	 "Undersheriff":6950900271,
 	 "Sheriff":6950900271
-      },
+      }, 
+"SWATSPUTop":{
+        "Cadet":7398591352,
+        "Private":7398591352,
+        "Private First Class":7398587517,
+        "Sergeant":7398585732,
+        "Lieutenant":7398584077,
+        "Captain":7398577766,
+        "Major":7398572999,
+        "Commander":7398566106,
+        "Executive Officer":7398564024,
+        "Commanding Officer":7398560891,
+    "Undersheriff":7398560891,
+    "Sheriff":7398560891
+     },
       "SWATCRUShortTop":{
         "Cadet":6925657658,
         "Private":6925657116,
