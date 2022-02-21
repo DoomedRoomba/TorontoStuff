@@ -476,6 +476,20 @@
 	 "Sheriff":6950900271
       }, 
 "SWATSPUTop":{
+        "Cadet":7354720235,
+        "Private":7354720235,
+        "Private First Class":7354720235,
+        "Sergeant":7354720235,
+        "Lieutenant":7354720235,
+        "Captain":7354720235,
+        "Major":7354720235,
+        "Commander":7354720235,
+        "Executive Officer":7354720235,
+        "Commanding Officer":7354720235,
+    "Undersheriff":7354720235,
+    "Sheriff":7354720235
+     },
+"SWATSPUBottom":{
         "Cadet":7398591346,
         "Private":7398591346,
         "Private First Class":7398587516,
