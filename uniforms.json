@@ -427,11 +427,11 @@
          "Lieutenant":8821121192,
          "Captain":8821122414,
          "Major":8821124029,
-         "Commander":6951339391,
-         "Executive Officer":6951339885,
-         "Commanding Officer":6951340325,
-	 "Undersheriff":6951340325,
-	 "Sheriff":6951340325
+         "Commander":3180370352,
+         "Executive Officer":3180367791,
+         "Commanding Officer":3180367791,
+	 "Undersheriff":3180367791,
+	 "Sheriff":3180367791
       },
 	"SWATUndershirt":{
          "Cadet":3180382836,
@@ -455,11 +455,11 @@
         "Lieutenant":3180383962,
         "Captain":3180383962,
         "Major":3180383962,
-        "Commander":6950900271,
-        "Executive Officer":6950900271,
-        "Commanding Officer":6950900271,
-    "Undersheriff":6950900271,
-    "Sheriff":6950900271
+        "Commander":3180371729,
+        "Executive Officer":3180371729,
+        "Commanding Officer":3180371729,
+    "Undersheriff":3180371729,
+    "Sheriff":3180371729
       },
 	"SWATBottom":{
          "Cadet":3173990084,
@@ -469,11 +469,11 @@
          "Lieutenant":3173990084,
          "Captain":3173990084,
          "Major":3173990084,
-         "Commander":6950900271,
-         "Executive Officer":6950900271,
-         "Commanding Officer":6950900271,
-	 "Undersheriff":6950900271,
-	 "Sheriff":6950900271
+         "Commander":3180371729,
+         "Executive Officer":3180371729,
+         "Commanding Officer":3180371729,
+	 "Undersheriff":3180371729,
+	 "Sheriff":3180371729
       }, 
 "SWATSPUTop":{
         "Cadet":7398591346,
